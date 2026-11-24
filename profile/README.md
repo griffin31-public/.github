@@ -26,11 +26,7 @@ A legacy protocol left on, or one gap in a Conditional Access policy, is all an 
 
 ## Built by OnCloud
 
-Griffin31 is a product of [OnCloud](https://www.oncld.io/en/?utm_source=github&utm_medium=referral&utm_campaign=2026-11-github-org), a Microsoft security integrator with 300+ Microsoft 365 security projects behind it. The same team writes and maintains every check. That's why this organization links to [OnCloud's LinkedIn page](https://www.linkedin.com/company/oncloudhq).
-
-## What's in this organization
-
-Public plugins and integrations that bring Griffin31 into the tools your team already uses, each with its own README and install steps. Coming soon: the Griffin31 plugin for Claude.
+Griffin31 is a product of [OnCloud](https://www.oncld.io/en/?utm_source=github&utm_medium=referral&utm_campaign=2026-11-github-org), a Microsoft security integrator with 300+ Microsoft 365 security projects behind it. The same team writes and maintains every check.
 
 ## Security and support
 
